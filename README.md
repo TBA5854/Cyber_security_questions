@@ -54,8 +54,6 @@ By playing the audio completely, we can get the contents of flag.
 
 flag: e5353bb7b57578bd4da1c898a8e2d767  
 
-The flag looks like a MD5 Hash and could be brute forced using hashcat or Jacktheripper .
-
 ## Steps Taken:
 1. Opening the sound.wav on Spectrum Analyzer.
 2. Noting down the flag.
