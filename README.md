@@ -27,7 +27,8 @@ In packet 24, the user is downloading a JPEG file(flag.jpg) through the HTTP pro
 <p align="center" width="100%">
     <img src="https://github.com/TBA5854/Cyber_security_questions/blob/main/resources/pcap_flag.jpg?raw=true">
 </p>
-## Steps Taken:
+
+##Steps Taken:
 
 1. apt install wireshark-qt.
 2. Looking for hidden data in the .pcap file by opening in wireshark .
